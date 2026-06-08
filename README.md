@@ -1,6 +1,6 @@
 # 🍔 AIUBean - Online Food Ordering System
 
-AIUBean is a Java Swing-based desktop application designed for ordering food within the AIUB university community.  
+AIUBean is a Java Swing-based desktop application designed for ordering food within the AIUB.  
 It works like a simplified version of platforms such as Foodpanda or Foodie, allowing users to browse food providers, place orders, and complete payments in a desktop environment.
 
 The system focuses on demonstrating desktop GUI development, user authentication, admin control, and file-based data handling using Java.
